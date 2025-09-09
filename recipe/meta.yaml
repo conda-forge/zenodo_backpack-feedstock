@@ -1,5 +1,5 @@
 {% set name = "zenodo_backpack" %}
-{% set version = "0.3.1" %}
+{% set version = "0.4.0" %}
 
 package:
   name: "{{ name|lower }}"
@@ -7,7 +7,7 @@ package:
 
 source:
   url: "https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz"
-  sha256: dc91f3c427f976465789746e94736abfa536cf42dc2e49b6d6067382a9a39b26
+  sha256: 5487f374dbeefc1807e6e77bd7d9236ce71393272484f9c036f9fe979ffa9040
 
 build:
   number: 0
