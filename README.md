@@ -31,7 +31,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-zenodo_backpack-green.svg)](https://anaconda.org/conda-forge/zenodo_backpack) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/zenodo_backpack.svg)](https://anaconda.org/conda-forge/zenodo_backpack) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/zenodo_backpack.svg)](https://anaconda.org/conda-forge/zenodo_backpack) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/zenodo_backpack.svg)](https://anaconda.org/conda-forge/zenodo_backpack) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-zenodo__backpack-green.svg)](https://anaconda.org/conda-forge/zenodo_backpack) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/zenodo_backpack.svg)](https://anaconda.org/conda-forge/zenodo_backpack) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/zenodo_backpack.svg)](https://anaconda.org/conda-forge/zenodo_backpack) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/zenodo_backpack.svg)](https://anaconda.org/conda-forge/zenodo_backpack) |
 
 Installing zenodo_backpack
 ==========================
